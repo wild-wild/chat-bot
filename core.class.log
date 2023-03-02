@@ -1,0 +1,62 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59177074713@s.whatsapp.net',
+    fromMe: false,
+    id: '8BD94ADBD4B604550E7327A4DE7FD3E2',
+    participant: undefined
+  },
+  messageTimestamp: 1677717705,
+  pushName: 'Wild♥️',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '59177074713'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59177074713@s.whatsapp.net',
+    fromMe: false,
+    id: '320789FCCF2B195B061D21CC0482071A',
+    participant: undefined
+  },
+  messageTimestamp: 1677717710,
+  pushName: 'Wild♥️',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-2',
+      selectedDisplayText: 'Preguntas frecuentes FAQ',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Preguntas frecuentes FAQ',
+  from: '59177074713'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59177074713@s.whatsapp.net',
+    fromMe: false,
+    id: '5828E937DCA5F402AA17C28DC3981FA8',
+    participant: undefined
+  },
+  messageTimestamp: 1677717714,
+  pushName: 'Wild♥️',
+  message: Message {
+    conversation: '8',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '8',
+  from: '59177074713'
+}
